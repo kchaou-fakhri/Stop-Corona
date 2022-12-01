@@ -1,5 +1,5 @@
 # Stop-Corona
-Project java with MVC and MySQL database
+Project java with Swing, MVC and MySQL database 
 
 same : screen shot
 
